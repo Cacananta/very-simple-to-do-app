@@ -51,7 +51,6 @@ class Todo extends React.Component {
     })
   }
 
-
   renderEditForm() {
     const item = this.state.todo;
 
